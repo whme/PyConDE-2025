@@ -5,3 +5,9 @@
 - ### 📜 [Talk abstract on pycon.de](https://2025.pycon.de/talks/QXSQKL/)
 - ### 🎥 [Recording on YouTube]() (TODO)
 
+---
+
+### Useful resources
+
+- [The Rust Book](https://doc.rust-lang.org/book/ch00-00-introduction.html) - 📚 the best way to learn Rust
+- [The Rust Python Book](https://indosaram-github-io.translate.goog/rust-python-book/?_x_tr_sl=ko&_x_tr_tl=en&_x_tr_pto=wapp) - 🇰🇷 book to get started with Rust coming from a Python background
